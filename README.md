@@ -21,20 +21,3 @@ At Alkawi Tech, we are committed to creating high-quality software products and 
 
 - **Client Projects**: In addition to our own products, we collaborate with clients to bring their unique ideas to life. This repository showcases some of the projects we've worked on.
 
-## Getting Started
-
-To get started with Alkawi Tech's projects, please visit our website [https://www.alkawitech.com](https://www.alkawitech.com) for more information about our services and portfolio.
-
-## Contributing
-
-We welcome contributions from the open-source community. If you're interested in collaborating with us or contributing to our projects, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## Support
-
-If you have any questions, encounter issues, or need assistance with any of our projects, please don't hesitate to [contact us](mailto:info@alkawitech.com). We are here to help!
-
-## License
-
-This repository and its contents are open-source and available under the [MIT License](LICENSE).
-
-Thank you for your interest in Alkawi Tech! We look forward to collaborating with you and building amazing technology solutions together.
